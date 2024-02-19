@@ -1,14 +1,29 @@
-### Hi there 👋
+![Computer Engineer](https://media.licdn.com/dms/image/D5616AQFy46Avzycc5Q/profile-displaybackgroundimage-shrink_350_1400/0/1708279473516?e=1714003200&v=beta&t=i6l9ssP9Gc-HFNPrNR1UFZU8lNxcys-GXj0puYpyXqk)
 
-**Zahedul01/Zahedul01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋, my name is Zahedul
+#### Computer Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+A passionate, ambitious and hardworking guy. I have a great amount of interest to learn about new technology. Currently, I am working in Java programming language as well as Website development.
+
+Skills: Java / HTML / CSS/JavaScript/mysql
+
+- 🔭 I’m currently working on Project 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on GitHub 
+- 🤔 I’m looking for help with Web Development 
+- 💬 Ask me about Java 
+- 📫 How to reach me: zahedulislam468@gmail.com 
+- ⚡ Fun fact: I am a Leo Messi Fan 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Zahedul01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zahedul-islam-294169253//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009675811002)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Zahedul01)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Zahedul01&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/Zahedul01)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Zahedul01)  
+
