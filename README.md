@@ -1,4 +1,4 @@
-![Computer Engineer](https://media.licdn.com/dms/image/D5616AQFy46Avzycc5Q/profile-displaybackgroundimage-shrink_350_1400/0/1708279473516?e=1714003200&v=beta&t=i6l9ssP9Gc-HFNPrNR1UFZU8lNxcys-GXj0puYpyXqk)
+
 
 
 ### Hi there 👋, my name is Zahedul
