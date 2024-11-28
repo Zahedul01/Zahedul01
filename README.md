@@ -1,6 +1,7 @@
 
-![Computer Engineer]([https://media.licdn.com/dms/image/D5616AQFy46Avzycc5Q/profile-displaybackgroundimage-shrink_350_1400/0/1708279473516?e=1726099200&v=beta&t=k7gsfcyiZQAMF7QDvcBxIgf5gAiQsL493tj2MFySWVA](https://media.licdn.com/dms/image/v2/D5616AQFy46Avzycc5Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708279473516?e=1738195200&v=beta&t=z5QtrHsKvJPZMEq7vwzIZcGoTf--6qRwa7onObBpCOE)
-
+<div align="center">
+  <img height="200" src="https://media.licdn.com/dms/image/v2/D5616AQFy46Avzycc5Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1708279473516?e=1738195200&v=beta&t=z5QtrHsKvJPZMEq7vwzIZcGoTf--6qRwa7onObBpCOE"  />
+</div>
 ### Hi there 👋, my name is Zahedul
 #### Computer Engineer
 
@@ -17,5 +18,20 @@ Skills: Java / HTML / CSS/JavaScript/mysql
 - ⚡ Fun fact: I am a Leo Messi Fan 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Zahedul01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/zahedul-islam-294169253//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009675811002)  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
 
+###
+
+
+
+###
